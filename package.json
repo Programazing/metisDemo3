@@ -1,0 +1,19 @@
+{
+  "name": "metisdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metis-data/sequelize-express-interceptor": "^0.0.9",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "sequelize": "^6.25.6",
+    "sqlite3": "^5.1.2"
+  }
+}
